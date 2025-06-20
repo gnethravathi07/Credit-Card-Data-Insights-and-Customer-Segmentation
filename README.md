@@ -83,4 +83,4 @@ Among all card types, Platinum and Gold cards generate the most revenue, driven 
 
 ### ✅ Conclusion
 
-This credit card financial analysis provided deep insights into customer behavior, revenue drivers, and performance trends across various segments. By integrating SQL for data transformation, Power BI for interactive dashboards, and Python for detailed analysis, we built a powerful, end-to-end analytical solution.
+ThisCredit Card Data Insights and Customer Segmentation Analysis provided deep insights into customer behavior, revenue drivers, and performance trends across various segments. By integrating SQL for data transformation, Power BI for interactive dashboards, and Python for detailed analysis, built a powerful, end-to-end analytical solution.
