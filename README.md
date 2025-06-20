@@ -57,7 +57,7 @@ Exploratory Data Analysis performed using:
 
 * Pandas for preprocessing and merging
 * Matplotlib & Seaborn for data visualizations
-* Revenue distribution, customer age distribution, heatmaps, and monthly patterns
+* Revenue distribution, customer age distribution and monthly patterns
 
 ### 🔍 Key Insights
 
