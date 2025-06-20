@@ -12,9 +12,9 @@ The aim of this project is to provide a 360° view of the credit card business b
 * Monthly and quarterly performance tracking.
 
 ### Tools & Technologies
-~ Power BI – For dashboard creation and interactive visualizations.
-~ SQL (MySQL) – For data transformation and KPI generation.
-~ Python (Jupyter Notebook) – For EDA and visualization using Pandas, Matplotlib & Seaborn.
+##### Power BI – For dashboard creation and interactive visualizations.
+##### SQL (MySQL) – For data transformation and KPI generation.
+##### Python (Jupyter Notebook) – For EDA and visualization using Pandas, Matplotlib & Seaborn.
 
 📌 Key KPIs 
 
