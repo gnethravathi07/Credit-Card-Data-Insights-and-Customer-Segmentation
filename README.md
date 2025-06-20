@@ -42,8 +42,6 @@ Some of the important queries built for analysis:
 * Customer Segmentation by Education & Marital Status
 * Revenue by Use of Chip and Expenditure Type
 
-See full SQL scripts in Credit_Card_Sql.sql
-
 ### 📈 Power BI Dashboards
 
 The Power BI dashboard contains:
@@ -60,8 +58,6 @@ Exploratory Data Analysis performed using:
 * Pandas for preprocessing and merging
 * Matplotlib & Seaborn for data visualizations
 * Revenue distribution, customer age distribution, heatmaps, and monthly patterns
-
-Check: Credit_Card_Analysis.ipynb
 
 ### 🔍 Key Insights
 
