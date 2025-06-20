@@ -2,7 +2,7 @@
 
 This project presents a comprehensive Credit Card Financial Dashboard designed to analyze customer behaviors, financial metrics, and card performance using SQL, Power BI, and Python (Pandas, Matplotlib, Seaborn).
 
-📊 *Project Overview*
+### 📊 Project Overview
 
 The aim of this project is to provide a 360° view of the credit card business by exploring revenue, customer demographics, transaction metrics, and satisfaction scores. The analysis helps stakeholders derive actionable insights such as:
 
