@@ -6,13 +6,10 @@ This project presents a comprehensive Credit Card Financial Dashboard designed t
 
 The aim of this project is to provide a 360° view of the credit card business by exploring revenue, customer demographics, transaction metrics, and satisfaction scores. The analysis helps stakeholders derive actionable insights such as:
 
-*Revenue segmentation by gender, age, card category, and income group.
-
-*Customer satisfaction trends.
-
-*Acquisition cost analysis.
-
-*Monthly and quarterly performance tracking.
+* Revenue segmentation by gender, age, card category, and income group.
+* Customer satisfaction trends.
+* Acquisition cost analysis.
+* Monthly and quarterly performance tracking.
 
 ### Tools & Technologies
 ~ Power BI – For dashboard creation and interactive visualizations.
