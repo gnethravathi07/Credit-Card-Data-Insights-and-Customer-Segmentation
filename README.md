@@ -13,50 +13,34 @@ The aim of this project is to provide a 360° view of the credit card business b
 
 ### Tools & Technologies
 ~ Power BI – For dashboard creation and interactive visualizations.
-
 ~ SQL (MySQL) – For data transformation and KPI generation.
-
 ~ Python (Jupyter Notebook) – For EDA and visualization using Pandas, Matplotlib & Seaborn.
 
 📌 Key KPIs 
 
-*Total Revenue = Annual Fees + Transaction Amounts + Interest Earned
-
-*Customer Satisfaction Score = Average of survey ratings
-
-*Revenue by Dimensions:
-*Card Category
-
-*Gender
-
-*Age Group
-*State
-
-*Education Level
-
-*Job Role
-
-*Income Group
-
-*Quarterly Trends: Revenue, Transaction Count
-
-*Chip Usage: Revenue based on use of chip
-
-*Acquisition Costs by card type
+* Total Revenue = Annual Fees + Transaction Amounts + Interest Earned
+* Customer Satisfaction Score = Average of survey ratings
+* Revenue by Dimensions:
+* Card Category
+* Gender
+* Age Group
+* State
+* Education Level
+* Job Role
+* Income Group
+* Quarterly Trends: Revenue, Transaction Count
+* Chip Usage: Revenue based on use of chip
+* Acquisition Costs by card type
 
 ### 🔍 SQL Queries Highlights
 
 Some of the important queries built for analysis:
 
-*Revenue by Gender, Age, and Income
-
-*Transaction Trends by Quarter
-
-*Top 5 States by Revenue
-
-*Customer Segmentation by Education & Marital Status
-
-*Revenue by Use of Chip and Expenditure Type
+* Revenue by Gender, Age, and Income
+* Transaction Trends by Quarter
+* Top 5 States by Revenue
+* Customer Segmentation by Education & Marital Status
+* Revenue by Use of Chip and Expenditure Type
 
 See full SQL scripts in Credit_Card_Sql.sql
 
@@ -64,23 +48,18 @@ See full SQL scripts in Credit_Card_Sql.sql
 
 The Power BI dashboard contains:
 
-*Summary Page: KPIs, Revenue, and Satisfaction
-
-*Customer Demographics View
-
-*Card Category Performance
-
-*Acquisition Cost Analysis
+* Summary Page: KPIs, Revenue, and Satisfaction
+* Customer Demographics View
+* Card Category Performance
+* Acquisition Cost Analysis
 
 ### 📊 Python Analysis
 
 Exploratory Data Analysis performed using:
 
-*Pandas for preprocessing and merging
-
-*Matplotlib & Seaborn for data visualizations
-
-*Revenue distribution, customer age distribution, heatmaps, and monthly patterns
+* Pandas for preprocessing and merging
+* Matplotlib & Seaborn for data visualizations
+* Revenue distribution, customer age distribution, heatmaps, and monthly patterns
 
 Check: Credit_Card_Analysis.ipynb
 
