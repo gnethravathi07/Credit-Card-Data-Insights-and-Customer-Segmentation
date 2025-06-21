@@ -50,13 +50,23 @@ The Power BI dashboard contains:
 * Customer Demographics View
 * Card Category Performance
 * Acquisition Cost Analysis
-
-#### Sample Power BI Dashboard Preview
+  
+###### This Credit Card Data Insights and Customer Segmentation
+###### Analysis project offered deep insights through multiple dashboards
+### Dashboard 1: Customer Behavior & Card Performance
 ![image](https://github.com/user-attachments/assets/5a04f42f-c378-410f-bf27-bd3cd9b5cda3)
 
+* Blue cardholders are the largest customer group, contributing over ₹46M in revenue.
+* Chip-based transactions yield the highest revenue compared to swipe or online usage.
+* Graduate and High School educated customers drive most of the spending.
+* Q3 and Q4 consistently outperform in both revenue and transaction volume, hinting at seasonal spikes.
+  
+### Dashboard 2: Transaction Trends & Revenue Insights
 ![image](https://github.com/user-attachments/assets/ebf1a2e5-dc9e-4766-b53e-f8e19ccffb68)
 
-
+* Male customers contribute slightly more revenue than females, across all states and categories.
+* Top 5 states (NJ, CA, TX, NY, FL) generate the most revenue— suggesting regional targeting opportunities.
+* Dependents influence spending: customers with 3+ dependents show higher revenue, possibly reflecting family spending habits.
 
 ### 📊 Python Analysis
 
