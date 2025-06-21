@@ -51,6 +51,13 @@ The Power BI dashboard contains:
 * Card Category Performance
 * Acquisition Cost Analysis
 
+#### Sample Power BI Dashboard Preview
+![image](https://github.com/user-attachments/assets/5a04f42f-c378-410f-bf27-bd3cd9b5cda3)
+
+![image](https://github.com/user-attachments/assets/ebf1a2e5-dc9e-4766-b53e-f8e19ccffb68)
+
+
+
 ### 📊 Python Analysis
 
 Exploratory Data Analysis performed using:
