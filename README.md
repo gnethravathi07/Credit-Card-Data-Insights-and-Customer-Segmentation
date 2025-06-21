@@ -51,7 +51,7 @@ The Power BI dashboard contains:
 * Card Category Performance
 * Acquisition Cost Analysis
   
-###### This Credit Card Data Insights and Customer Segmentation Analysis project offered deep insights through multiple dashboards
+#### This Credit Card Data Insights and Customer Segmentation Analysis project offered deep insights through multiple dashboards
 
 ### Dashboard 1: Customer Behavior & Card Performance
 ![image](https://github.com/user-attachments/assets/5a04f42f-c378-410f-bf27-bd3cd9b5cda3)
